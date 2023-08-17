@@ -6,7 +6,6 @@
 - Communicating to Stakeholders
 - Project: Writing a Data Scientist Blog Post
 
-
 ## Part 2: Software Engineering
 
 ## Part 3: Data Engineering
